@@ -8,9 +8,6 @@
 
 
 This is my first official project on github,
-Personal hobby ? - maybe,
-Ego booster - definately,
-
 <!---
 ARTLEST/ARTLEST is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
